@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mai Huayu
-- 👀 I’m interested in football
 - 🌱 I’m currently learning CV
 - 📫 How to reach me mai556@mail.ustc.edu.cn
 <!---
